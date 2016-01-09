@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		18D9033A1C4192D7002B135E /* Classes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Classes; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D9033D1C4192D7002B135E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		18D903441C419342002B135E /* monkey.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = monkey.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				18D9033D1C4192D7002B135E /* main.cpp */,
+				18D903441C419342002B135E /* monkey.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
