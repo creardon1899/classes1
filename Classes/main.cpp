@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    
+    // connor
     string n;
     string g;
     int h;
